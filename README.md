@@ -12,4 +12,3 @@
 
 "output"
 
-![Image](https://github.com/user-attachments/assets/4371c18a-1d46-442b-a01a-cee4f3e71ffa
